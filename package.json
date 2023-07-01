@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "1.2.0",
 	"author": "foobar",
+	"description": "A project that does something awesome",
+	"keywords": ["freecodecamp","related", "words"],
+	"license": "MIT",
 	"dependencies": {
 	  "express": "^4.14.0"
 	},
@@ -8,11 +12,8 @@
 	"scripts": {
 	  "start": "node server.js"
 	},
-	"engines": {
-	  "node": "8.11.2"
-	},
 	"repository": {
 	  "type": "git",
-	  "url": "https://idontknow/todo.git"
+	  "url": "https://github.com/jartdian/boilerplate-npm"
 	}
   }
